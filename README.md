@@ -9,7 +9,7 @@
 - Computing (Computer Science)
 
 ## 💻 Tech Stack
-- HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
+- ![Static Badge](https://img.shields.io/badge/HTML-red)![Static Badge](https://img.shields.io/badge/CSS-blue)
 
 ## 🚀 Projects
 1. Portfolio Website
