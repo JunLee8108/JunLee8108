@@ -1,4 +1,6 @@
-# Jeong Hyun Lee [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)](https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)
+# Jeong Hyun Lee 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)](https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)
+
 
 ## Future Front-end Developer
 
