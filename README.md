@@ -6,7 +6,7 @@
 
 ## 🏫 Education
 - Texas A&M University
-- Computing (Computer Science)
+- Computing (Computer Science) major
 
 ## 💻 Tech Stack
 - HTML/CSS, JavaScript, jQuery, TypeScript, React, Vue.js, Next.js, Node.js
