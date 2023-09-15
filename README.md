@@ -1,5 +1,5 @@
 # Jeong Hyun Lee 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)](https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/) &nbsp; 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)](https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lejhn1@gmail.com)](mailto:lejhn1@gmail.com)
 
 ## Future Front-end Developer
@@ -9,7 +9,7 @@
 - Computing (Computer Science)
 
 ## 💻 Tech Stack
-![Static Badge](https://img.shields.io/badge/HTML-red) &nbsp; ![Static Badge](https://img.shields.io/badge/CSS-blue) &nbsp; ![Static Badge](https://img.shields.io/badge/JavaScript%20%26%20jQuery-yellow) &nbsp; 
+![Static Badge](https://img.shields.io/badge/HTML-red) &nbsp; ![Static Badge](https://img.shields.io/badge/CSS-blue) &nbsp; ![Static Badge](https://img.shields.io/badge/JavaScript%20%26%20jQuery-yellow) &nbsp; ![Static Badge](https://img.shields.io/badge/TypeScript-24A0ED) &nbsp; ![Static Badge](https://img.shields.io/badge/React-002966)
 
 ## 🚀 Projects
 1. Portfolio Website
