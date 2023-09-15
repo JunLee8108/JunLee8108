@@ -9,7 +9,7 @@
 - Computing (Computer Science)
 
 ## 💻 Tech Stack
-- ![Static Badge](https://img.shields.io/badge/HTML-red) <br> ![Static Badge](https://img.shields.io/badge/CSS-blue)
+- ![Static Badge](https://img.shields.io/badge/HTML-red) &nbsp; ![Static Badge](https://img.shields.io/badge/CSS-blue)
 
 ## 🚀 Projects
 1. Portfolio Website
