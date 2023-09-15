@@ -2,7 +2,7 @@
 
 ### - Future Front-end Developer
 
-##### 🎓: Computer Science Student at Texas A&M University
+#### 🏫: Texas A&M University
 
 
 
