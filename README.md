@@ -6,6 +6,9 @@
 #### 📖: Computer Science
 #### Tech Stack: HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
+### 🚀 Projects:
+1. Refeined Seoul
+
 
 
 <!--
