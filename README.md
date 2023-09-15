@@ -9,7 +9,7 @@
 ### 💻 Tech Stack:
 - HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
-### 🚀 Projects:
+### 🚀 Personal Projects:
 1. Portfolio Website
    - Personal portfolio website 
    - React
