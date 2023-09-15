@@ -15,7 +15,7 @@
 ## 🚀 Projects
 1. Portfolio Website
    - Personal portfolio website 
-   - Rect
+   - React
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
 3. Refeined Seoul
    - Fictional luxury fashion brand 
