@@ -4,7 +4,7 @@
 
 ## Future Front-end Developer
 
-### 🏫. Education:
+### ![Static Badge](https://img.shields.io/badge/Education-77DD77)
 - Texas A&M University
 - Computing (Computer Science)
 
