@@ -11,7 +11,7 @@
 ### 💻. Tech Stack:
 - HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
-### 🚀 ![Static Badge](https://img.shields.io/badge/Projects-red)
+### ![Static Badge](https://img.shields.io/badge/Projects-red)
 
 1. Portfolio Website
    - Personal portfolio website 
