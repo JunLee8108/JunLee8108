@@ -2,7 +2,8 @@
 
 ### Future Front-end Developer
 
-💬: I'm a dedicated computer science student who's on a path to becoming a front-end developer. With a strong foundation in programming and a passion for creating intuitive user interfaces, I proficiently work with HTML/CSS, JavaScript/TypeScript, React, and Next.js – the modern trending languages and frameworks of web development.
+💬: I'm a dedicated computer science student who's on a path to becoming a front-end developer. 
+With a strong foundation in programming and a passion for creating intuitive user interfaces, I proficiently work with HTML/CSS, JavaScript/TypeScript, React, and Next.js – the modern trending languages and frameworks of web development.
 
 
 <!--
