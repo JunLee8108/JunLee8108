@@ -1,8 +1,8 @@
 ## Jeong Hyun Lee
 
-### Future Front-end Developer
+### - Future Front-end Developer
 
-### 🎓: Computer Science Student at Texas A&M University
+##### 🎓: Computer Science Student at Texas A&M University
 
 
 
