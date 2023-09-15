@@ -1,11 +1,10 @@
-## Jeong Hyun Lee
+# Jeong Hyun Lee
 
-### Future Front-end Developer
+## Future Front-end Developer
 
-### 🏫: 
-#### Texas A&M University
-#### 📖: Computer Science
-#### Tech Stack: HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
+### 🏫: Texas A&M University
+### 📖: Computer Science
+### Tech Stack: HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
 
 
