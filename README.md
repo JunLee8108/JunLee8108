@@ -10,8 +10,10 @@
 - HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
 ### 🚀 Projects:
-1. Refeined Seoul
-
+1. Portfolio Website
+2. Refeined Seoul - Fictional Luxury Fashion Brand 
+3. Hyundai Motors - Redesign of the Hyundai Motor's Offical Website
+4. IntelliCart - AI-Powered E-Commerce Shop
 
 
 <!--
