@@ -4,15 +4,14 @@
 
 ## Future Front-end Developer
 
-### ![Static Badge](https://img.shields.io/badge/Education-77DD77)
+### 🏫. Education:
 - Texas A&M University
 - Computing (Computer Science)
 
 ### 💻. Tech Stack:
 - HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
-### ![Static Badge](https://img.shields.io/badge/Projects-red)
-
+### 🚀. Projects:
 1. Portfolio Website
    - Personal portfolio website 
    - React
