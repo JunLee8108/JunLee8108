@@ -3,7 +3,8 @@
 ## Future Front-end Developer
 
 ### 🏫 Education:
-- Texas A&M University, Computer Science 
+- Texas A&M University
+- Computing
 
 #### Tech Stack: HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
