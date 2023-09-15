@@ -4,17 +4,17 @@
 
 ## Future Front-end Developer
 
-### 🏫 Education
+## 🏫 Education
 - Texas A&M University
 - Computing (Computer Science)
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 - HTML/CSS, JavaScript/jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
-### 🚀 Projects
+## 🚀 Projects
 1. Portfolio Website
    - Personal portfolio website 
-   - React
+   - Rect
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
 3. Refeined Seoul
    - Fictional luxury fashion brand 
