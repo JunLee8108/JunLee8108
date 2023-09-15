@@ -11,9 +11,17 @@
 
 ### 🚀 Projects:
 1. Portfolio Website
-2. Refeined Seoul - Fictional Luxury Fashion Brand 
-3. Hyundai Motors - Redesign of the Hyundai Motor's Offical Website
-4. IntelliCart - AI-Powered E-Commerce Shop
+   - Personal portfolio website 
+   - React 
+3. Refeined Seoul
+   - Fictional luxury fashion brand 
+   - React & Redux toolkit 
+5. Hyundai Motors
+   - Redesigned the Hyundai's official website
+   - React 
+7. IntelliCart 
+   - AI-Powered E-commerce shop
+   - React & TypeScript
 
 
 <!--
