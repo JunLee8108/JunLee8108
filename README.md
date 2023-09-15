@@ -16,13 +16,16 @@
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
 3. Refeined Seoul
    - Fictional luxury fashion brand 
-   - React & Redux toolkit 
+   - React & Redux toolkit
+   - https://main.d2t2zns6ieqh27.amplifyapp.com/
 5. Hyundai Motors
    - Redesigned the Hyundai's official website
-   - React 
+   - React
+   - https://main.dv90aq3ksc428.amplifyapp.com/
 7. IntelliCart 
    - AI-Powered E-commerce shop
    - React & TypeScript
+   - https://main.dj3ur1xvg909l.amplifyapp.com/
 
 
 <!--
