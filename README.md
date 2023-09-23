@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lejhn1@gmail.com)](mailto:lejhn1@gmail.com)
 
 ## 👨🏻‍💻 Future Front-end Developer
-- I'm a dedicated computer science student who's on a path to becoming a frontend developer.
+- I'm a dedicated computer science student who's on a path to becoming a front-end developer.
 
 ## 🏫 Education
 - Texas A&M University
@@ -17,7 +17,7 @@
    - Personal portfolio website 
    - React
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
-2. Refeined Seoul
+2. Refeined Seoul 🥼
    - Fictional luxury fashion brand 
    - React & Redux toolkit
    - https://main.d2t2zns6ieqh27.amplifyapp.com/
