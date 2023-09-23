@@ -13,7 +13,7 @@
 - HTML/CSS, JavaScript, jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
 ## 🚀 Projects
-1. Portfolio Website
+1. Portfolio Website 💼
    - Personal portfolio website 
    - React
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
@@ -21,11 +21,11 @@
    - Fictional luxury fashion brand 
    - React & Redux toolkit
    - https://main.d2t2zns6ieqh27.amplifyapp.com/
-3. Hyundai Motors
+3. Hyundai Motors 🚗
    - Redesigned the Hyundai's official website
    - React
    - https://main.dv90aq3ksc428.amplifyapp.com/
-4. IntelliCart 
+4. IntelliCart 🤖
    - AI-Powered E-commerce shop
    - React, TypeScript, Node.js, Tensorflow
    - https://main.dj3ur1xvg909l.amplifyapp.com/
