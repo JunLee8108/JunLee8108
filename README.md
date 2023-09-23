@@ -13,7 +13,7 @@
 - HTML/CSS, JavaScript, jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
 ## 🚀 Projects
-1. Portfolio Website 💼
+1. Portfolio Website 📔
    - Personal portfolio website 
    - React
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
