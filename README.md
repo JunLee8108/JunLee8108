@@ -1,6 +1,7 @@
 # Jeong Hyun Lee 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)](https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lejhn1@gmail.com)](mailto:lejhn1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/github?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lejhn1@gmail.com)](mailto:lejhn1@gmail.com)
 
 ## 👨🏻‍💻 Future Front-end Developer
 - I'm a dedicated computer science student who's on a path to becoming a front-end developer.
