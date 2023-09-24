@@ -16,7 +16,7 @@
 1. Portfolio Website 📔
    - Personal portfolio website 
    - React
-   - <a href="http://melonicedlatte.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+   - <a href="https://github.com/JunLee8108/jun-recent-blog"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
    
 
