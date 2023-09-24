@@ -1,10 +1,6 @@
 # Jeong Hyun Lee 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)](https://www.linkedin.com/in/jeong-hyun-lee-a5362319a/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lejhn1@gmail.com)](mailto:lejhn1@gmail.com)
-<a href="http://melonicedlatte.com/">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</a>
-
 
 ## 👨🏻‍💻 Future Front-end Developer
 - I'm a dedicated computer science student who's on a path to becoming a front-end developer.
@@ -20,7 +16,10 @@
 1. Portfolio Website 📔
    - Personal portfolio website 
    - React
+   - <a href="http://melonicedlatte.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
+   
+
 2. Refeined Seoul 🥼
    - Fictional luxury fashion brand 
    - React & Redux toolkit
