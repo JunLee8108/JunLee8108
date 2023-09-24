@@ -28,7 +28,7 @@
 4. IntelliCart 🤖
    - AI-Powered E-commerce shop
    - React, TypeScript, Node.js, Tensorflow
-   - https://main.dj3ur1xvg909l.amplifyapp.com/
+   - https://main.dth2vcti3zp62.amplifyapp.com/
 
 
 <!--
