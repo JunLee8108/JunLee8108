@@ -37,6 +37,12 @@
    - <a href="https://github.com/JunLee8108/IntelliCart"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    - https://main.dth2vcti3zp62.amplifyapp.com/
 
+5. VocaVista 📖
+   - Korean E-Learning Platform with Adaptive Learning
+   - Next.js, TypeScript, MongoDB
+   - <a href="https://github.com/JunLee8108/VocaVista"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+   - https://voca-vista.vercel.app/
+
 
 <!--
 **JunLee8108/JunLee8108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
