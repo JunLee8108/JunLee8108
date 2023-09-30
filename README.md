@@ -13,31 +13,31 @@
 - HTML/CSS, JavaScript, jQuery, TypeScript, React, Vue.js, Next.js, Node.js
 
 ## 🚀 Projects
-1. Portfolio Website 📔
+<strong>1. Portfolio Website 📔</strong>
    - Personal portfolio website 
    - React
    - <a href="https://github.com/JunLee8108/jun-recent-blog"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    - https://main.dv6dnnn7mevg7.amplifyapp.com/
      
-2. Refeined Seoul 🥼
+<strong>2. Refined Seoul 🥼</strong>
    - Fictional luxury fashion brand 
    - React & Redux toolkit
    - <a href="https://github.com/JunLee8108/Refined"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    - https://main.d2t2zns6ieqh27.amplifyapp.com/
      
-3. Hyundai Motors 🚗
+<strong>3. Hyundai Motors 🚗</strong>
    - Redesigned the Hyundai's official website
    - React
    - <a href="https://github.com/JunLee8108/Hyundai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    - https://main.dv90aq3ksc428.amplifyapp.com/
      
-4. IntelliCart 🤖
+<strong>4. IntelliCart 🤖</strong>
    - AI-Powered E-commerce shop
    - React, TypeScript, Node.js, Tensorflow
    - <a href="https://github.com/JunLee8108/IntelliCart"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
    - https://main.dth2vcti3zp62.amplifyapp.com/
 
-5. VocaVista 📖
+<strong>5. VocaVista 📖</strong>
    - Korean E-Learning Platform with Adaptive Learning
    - Next.js, TypeScript, MongoDB
    - <a href="https://github.com/JunLee8108/VocaVista"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
