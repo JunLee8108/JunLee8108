@@ -10,7 +10,7 @@
 - Computing (Computer Science) major
 
 ## 💻 Tech Stack
-- HTML/CSS, JavaScript, jQuery, TypeScript, React, Vue.js, Next.js, Node.js
+- Python, C++, HTML/CSS, JavaScript, jQuery, TypeScript, React, Vue.js, Next.js, Node.js, Electron.js, MongoDB, PostgreSQL
 
 ## 🚀 Projects
 <strong>1. Portfolio Website 📔</strong>
